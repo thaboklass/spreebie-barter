@@ -1,0 +1,105 @@
+/* Spreebie Barter's CSS Document 
+ * By Thabo David Nyakallo Klass
+ */
+
+.spreebie_barter_true {
+	color: rgb(0, 194, 0);
+}
+
+.spreebie_barter_false {
+	color:red;
+}
+
+#ob_vc_output_url {
+	display : none;
+}
+
+#spreebie_barter_main_content {
+	display : none;
+}
+
+#spreebie_barter_loading {
+	display : none;
+}
+
+.spinner {
+	display: inline;
+}
+
+#spreebie_barter_incomplete_dialog {
+	background: #f8dbdb;
+	border-color: #e77776 2px;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_ffmpeg_not_found {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_upload_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_payment_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_donation_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_input_contains_quotes {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_support_fields_not_filled {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_donation_fields_not_filled {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#spreebie_barter_donation_information {
+	background: #daffd6;
+	border-color: #beffb7;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
